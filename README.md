@@ -1,7 +1,5 @@
 # Android Native Camera Access through JNI 
 
-androidnativecameraaccess-melvincabatuan created by Classroom for GitHub
-
 This project illustrates the simple access of Android's Native Camera utilizing the Java Native Interface (JNI).
 
 ## Prerequisite:
@@ -85,35 +83,3 @@ JNIEXPORT jboolean JNICALL Java_io_github_melvincabatuan_nativegrayscale_CameraP
 	return true;
 }
 ```
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/d45adc7a750fb7ae839c5aaf97934600
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/androidnativecameraaccess-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-
-## Screenshots:
-
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/androidnativecameraaccess-melvincabatuan/blob/master/device-2015-11-06-072111.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/androidnativecameraaccess-melvincabatuan/blob/master/device-2015-11-06-072455.png)
-
-"*To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.*" - Ralph Waldo Emerson
